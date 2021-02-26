@@ -12,7 +12,7 @@
       <module>cloud-consumer</module>
       <module>cloud-api-commons</module>
     <module>cloud-euerka</module>
-      <module>cloud-provider-2</module>
+
     <module>cloud-provider-consul</module>
     <module>cloud-consumer-consul</module>
     <module>cloud-consumer-feign</module>
@@ -22,7 +22,8 @@
       <module>cloud-gateway</module>
       <module>cloud-provider-payment8002</module>
       <module>cloud-config-center-3344</module>
-    <module>cloud-config-center-3355</module>
+    <module>cloud-config-client-3355</module>
+      <module>cloud-config-client-3366</module>
   </modules>
   <packaging>pom</packaging>
 
