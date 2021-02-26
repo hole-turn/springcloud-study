@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/cloud-api-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-api-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-config-center-3344/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-config-center-3344/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-config-center-3355/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-config-center-3355/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-consul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-feign-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-feign-hystrix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-hystrix-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-hystrix-dashboard/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-euerka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-euerka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-consul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-hystrix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-payment8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
