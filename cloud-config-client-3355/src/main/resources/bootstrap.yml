@@ -5,10 +5,15 @@ spring:
     name: config-client
   cloud:
     config:
-      label: main #分支名称
+      label: master #分支名称
       name: config #配置文件名称
       profile: dev #读取后缀名称
       uri: http://localhost:3344 #上述3个综合：master分支上config-dev.yml的配置文件被读取http://localhost:3344/master/config-dev.yml
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
 eureka:
   client:
     service-url:
