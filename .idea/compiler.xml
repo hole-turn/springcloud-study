@@ -16,6 +16,8 @@
         <module name="cloud-consumer-feign" />
         <module name="cloud-stream-rabbitmq-provider8801" />
         <module name="cloud-gateway" />
+        <module name="cloud-stream-rabbitmq-consumer8802" />
+        <module name="cloud-stream-rabbitmq-consumer8803" />
         <module name="cloud-config-center-3344" />
         <module name="cloud-provider-hystrix" />
         <module name="cloud-consumer" />

@@ -21,7 +21,7 @@ import java.util.List;
  */
 @RestController
 @Slf4j
-@RequestMapping("payment")
+@RequestMapping("/payment")
 public class PaymentController {
     @Resource
     private PaymentService paymentService;
@@ -70,5 +70,10 @@ public class PaymentController {
     public String getPaymentLB()
     {
         return port;
+    }
+
+    @GetMapping("/zipkin")
+    public String paymentZipkin(){
+        return "hi ,i'm  haha";
     }
 }
